@@ -8,13 +8,13 @@ output: html_document
 # This is a header!
 This is a section of Markdown text.
 
-#This is a another header!
-This is another of section of Markdown text.
+# This is another header!
+This is another section of Markdown text.
 
 ```{R}
 print("This is a code chunk!")
 ```
 
 ```{R}
-print("This is a another code chunk!")
+print("This is another code chunk!")
 ```
