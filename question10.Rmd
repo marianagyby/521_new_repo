@@ -1,0 +1,37 @@
+---
+title: "Lab 4 Question 10"
+author: "Marian Agyby"
+date: "2022-09-26"
+output: 
+  xaringan::moon_reader:
+    css: [metropolis, metropolis-fonts]
+---
+# Slide 1
+
+Here is a list of random things:
+- table
+- apple
+- TV
+- fork
+
+---
+# Slide 2
+
+Here is a code block:
+
+```{r}
+print("This is going to be a very interesting presentation")
+```
+
+---
+# Slide 3
+
+Here is another code block with no output:
+
+```{r eval=FALSE}
+10 * 10 == 100
+```
+
+---
+# Slide 4
+This is the last slide!!!
